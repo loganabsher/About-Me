@@ -1,15 +1,15 @@
 h1 {
-  font-family: helvetica;
+  font-family: georgia;
 }
 
 p {
-  color: lightblue;
+  color: grey;
 }
 
 .more-content{
-  background-color: #0000FF;
+  background-color: lightblue;
 }
 
 #something-else{
-  border: 5px dashed #FF0000;
+  border-style:dotted solid double dashed; lightblue;
 }
